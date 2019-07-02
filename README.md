@@ -7,7 +7,7 @@ This application is written in tkinter and allows to do image classification tas
 
 ## Features
 - Support choosing a directory for your image classification task
-- You can choose batch size, learning rate, and number of epochs.
+- You can choose batch size, learning rate, and number of epochs
 
 ---
 
